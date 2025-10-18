@@ -1,5 +1,6 @@
 body{
     font-family: 'Montserrat';
+    background: linear-gradient(to bottom, #b7c1ee, #6200ff);
 }
 
 .contenedor{
@@ -9,4 +10,9 @@ body{
 
 .en_negritas{
     font-weight: bold;
+}
+
+.tamaño{
+    width: 350px;
+    border-radius: 17%;
 }
