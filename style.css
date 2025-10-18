@@ -1,0 +1,12 @@
+body{
+    font-family: 'Montserrat';
+}
+
+.contenedor{
+    text-align: center;
+    color: red;
+}
+
+.en_negritas{
+    font-weight: bold;
+}
