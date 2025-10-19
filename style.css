@@ -13,8 +13,9 @@ body{
 }
 
 .tamaño{
-    margin: 0 auto;
     width: 330px;
     height: 300px;
     border-radius: 17%;
+    display: block;
+    margin: 0 auto
 }
